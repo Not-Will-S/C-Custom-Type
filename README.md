@@ -1,4 +1,4 @@
-# Custom String Library in C# Custom String Library in C
+# Custom String Library in C
 
 This project defines a custom string manipulation library in C, which allows you to create, modify, and manage strings stored in dynamically allocated memory. The custom string structure stores both the length of the string and the string content itself, enabling efficient string operations like copying, concatenating, and comparing.
 
